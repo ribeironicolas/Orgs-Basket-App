@@ -1,3 +1,4 @@
 # Orgs-Basket-App
 First App in React Native
-![tela](./imagem.jpeg) .
+
+<img src="./assets/screen.jpeg" width=350/>
